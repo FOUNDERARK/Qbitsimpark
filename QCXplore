@@ -1,0 +1,43 @@
+
+quantum-computing-explorations/
+│
+├── algorithms/
+│   ├── grover_search.py
+│   ├── shor_algorithm.py
+│   └── quantum_fft.py
+│
+├── simulations/
+│   ├── quantum_circuit_simulator.py
+│   ├── qubit_simulation.py
+│   └── quantum_walk.py
+│
+├── tools/
+│   ├── quantum_katas/
+│   │   └── kata_solutions.py
+│   └── quantum_toolkit.py
+│
+├── tutorials/
+│   ├── intro_to_qc.md
+│   ├── quantum_gates.md
+│   └── quantum_teleportation.md
+│
+├── experiments/
+│   ├── entanglement_test.py
+│   └── quantum_supremacy_demo.py
+│
+├── visualizations/
+│   ├── quantum_circuit_visualizer.py
+│   └── state_vector_plot.py
+│
+├── benchmarks/
+│   ├── quantum_compiler_benchmarks.py
+│   └── quantum_hardware_comparison.py
+│
+├── docs/
+│   ├── getting_started.md
+│   ├── contributing.md
+│   └── quantum_resources.md
+│
+├── .gitignore
+├── README.md
+└── LICENSE
